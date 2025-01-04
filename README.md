@@ -15,7 +15,7 @@
     Languate Statistics...
   </summary>
     <p align="center">
-      <figure><embed src="https://wakatime.com/share/@Odysseus/53825016-806b-439d-b348-093f815068a3.svg"></embed></figure>
+      <img src="https://wakatime.com/share/@Odysseus/5c617a34-95f7-45ab-94bd-63d008acec2e.svg"/>
     </p>
 </details>
 </hr>
