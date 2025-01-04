@@ -1,3 +1,12 @@
+<h3>Eat 🍴</h3>
+<h3>Sleep 🛌</h3>
+<h3>Code 💻</h3>
+<h3>Repeat 🔁</h3>
+
+👋 Hello, My name is Eric Odysseus Callaway.
+
+My passion is Data Science, Machine Learning, and Financial Technologies.
+
 <hr>
 <details>
   <summary>
