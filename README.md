@@ -1,4 +1,3 @@
-<hr>
 <details>
   <summary>
     Github Statistics...
@@ -7,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=EricCallaway&show_icons=true"/>
   </p>
 </details>
-</hr>
+
 
 <!--START_SECTION:waka-->
 
