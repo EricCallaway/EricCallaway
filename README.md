@@ -1,12 +1,9 @@
-<details>
-  <summary>
-    Github Statistics...
-  </summary>
+<summary>
+  Github Statistics...
+</summary>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=EricCallaway&show_icons=true"/>
   </p>
-</details>
-
 
 <!--START_SECTION:waka-->
 
