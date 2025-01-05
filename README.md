@@ -29,11 +29,14 @@ My passion is Data Science, Machine Learning, and Financial Technologies.
 <h3>This Weeks Coding Statistics</h3>
 <!--START_SECTION:waka-->
 
-```txt
-Python     4 hrs 14 mins   ███████████████████▓░░░░░   78.47 %
-Markdown   33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-XML        21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-JSON       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+```python
+From: 22 November 2024 - To: 04 January 2025
+
+Total Time: 99 hrs 37 mins
+
+Python       82 hrs 42 mins  >>>>>>>>>>>>>>>>>>>------   75.93 %
+XML          9 hrs 40 mins   >>-----------------------   08.88 %
+Other        9 hrs 17 mins   >>-----------------------   08.53 %
 ```
 
 <!--END_SECTION:waka-->
