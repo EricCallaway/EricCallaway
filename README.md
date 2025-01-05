@@ -26,7 +26,7 @@ My passion is Data Science, Machine Learning, and Financial Technologies.
     </p>
 </details>
 </hr>
-<h3>This Weeks Coding Statistics</h3>
+<h3>Coding Statistics</h3>
 <!--START_SECTION:waka-->
 
 ```python
