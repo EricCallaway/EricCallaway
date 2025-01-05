@@ -26,8 +26,8 @@ My passion is Data Science, Machine Learning, and Financial Technologies.
     </p>
 </details>
 </hr>
+<h3>This Weeks Coding Statistics</h3>
 <!--START_SECTION:waka-->
-
 ```txt
 Python     4 hrs 14 mins   ███████████████████▓░░░░░   78.47 %
 Markdown   33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
