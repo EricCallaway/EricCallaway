@@ -27,9 +27,9 @@ My passion is Data Science, Machine Learning, and Financial Technologies.
 </details>
 </hr>
 
-<img src="https://wakatime.com/share/@Odysseus/5e02c832-9cc5-49a3-8f4c-bd2647d78fca.svg"/>
 
 <h3>Coding Statistics</h3>
+<img src="https://wakatime.com/share/@Odysseus/5e02c832-9cc5-49a3-8f4c-bd2647d78fca.svg"/>
 <!--START_SECTION:waka-->
 
 ```python
