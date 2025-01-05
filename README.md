@@ -7,6 +7,7 @@
 
 My passion is Data Science, Machine Learning, and Financial Technologies.
 
+[![wakatime](https://wakatime.com/badge/user/6717695f-6a13-47e3-aa16-c813e12c0985.svg)](https://wakatime.com/@6717695f-6a13-47e3-aa16-c813e12c0985)
 <hr>
 <details>
   <summary>
