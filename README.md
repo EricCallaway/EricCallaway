@@ -33,13 +33,12 @@ My passion is Data Science, Machine Learning, and Financial Technologies.
 <!--START_SECTION:waka-->
 
 ```python
-From: 22 November 2024 - To: 05 January 2025
+From: 22 November 2024 - To: 06 January 2025
 
-Total Time: 104 hrs 41 mins
+Total Time: 105 hrs 2 mins
 
-Python       87 hrs 25 mins  >>>>>>>>>>>>>>>>>>>------   76.53 %
-XML          9 hrs 43 mins   >>-----------------------   08.51 %
-Other        9 hrs 32 mins   >>-----------------------   08.35 %
+Python       87 hrs 46 mins  >>>>>>>>>>>>>>>>>>>------   75.91 %
+Other        10 hrs 34 mins  >>-----------------------   09.15 %
 ```
 
 <!--END_SECTION:waka-->
