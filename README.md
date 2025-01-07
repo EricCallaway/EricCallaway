@@ -22,7 +22,7 @@ My passion is Data Science, Machine Learning, and Financial Technologies.
     Languate Statistics...
   </summary>
     <p align="center">
-      <img src="https://wakatime.com/share/@Odysseus/8e15b48f-f104-4b5e-ac51-813c06f51805.svg"/>
+      <img src="https://wakatime.com/share/@Odysseus/6fc7c863-6fba-4e57-a6af-ed1f2fa8d560.svg"/>
     </p>
 </details>
 </hr>
