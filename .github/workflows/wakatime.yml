@@ -26,4 +26,4 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: false
-          IGNORED_LANGUAGES: Other, JSON, Markdown, Text
+          IGNORED_LANGUAGES: Other JSON Markdown Text
