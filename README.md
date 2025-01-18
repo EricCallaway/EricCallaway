@@ -33,16 +33,16 @@ My passion is Data Science, Machine Learning, and Financial Technologies.
 <!--START_SECTION:waka-->
 
 ```python
-From: 22 November 2024 - To: 17 January 2025
+From: 22 November 2024 - To: 18 January 2025
 
-Total Time: 149 hrs 8 mins
+Total Time: 155 hrs 18 mins
 
-Python       118 hrs 29 mins >>>>>>>>>>>>>>>>>--------   67.27 %
-XML          12 hrs 28 mins  >>-----------------------   07.08 %
-SQL          8 hrs 52 mins   >------------------------   05.04 %
-CSV          1 hr 19 mins    -------------------------   00.75 %
-TypeScript   36 mins         -------------------------   00.34 %
-JavaScript   25 mins         -------------------------   00.24 %
+Python       121 hrs 48 mins >>>>>>>>>>>>>>>>>--------   66.82 %
+XML          12 hrs 32 mins  >>-----------------------   06.88 %
+SQL          10 hrs 36 mins  >------------------------   05.82 %
+CSV          1 hr 59 mins    -------------------------   01.09 %
+TypeScript   36 mins         -------------------------   00.33 %
+JavaScript   25 mins         -------------------------   00.23 %
 C++          16 mins         -------------------------   00.15 %
 ```
 
