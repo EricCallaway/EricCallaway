@@ -33,16 +33,16 @@ My passion is Software Engineering, Data Science, Machine Learning, and Financia
 <!--START_SECTION:waka-->
 
 ```python
-From: 22 November 2024 - To: 05 June 2025
+From: 22 November 2024 - To: 06 June 2025
 
-Total Time: 674 hrs 57 mins
+Total Time: 681 hrs 16 mins
 
-Python                     484 hrs 54 mins >>>>>>>>>>>>>>>----------   58.59 %
-JavaScript                 58 hrs 35 mins  >>-----------------------   07.08 %
-XML                        43 hrs 13 mins  >------------------------   05.22 %
-CSV                        28 hrs 36 mins  >------------------------   03.46 %
-SQL                        21 hrs 43 mins  >------------------------   02.63 %
-Bash                       2 hrs 12 mins   -------------------------   00.27 %
+Python                     490 hrs         >>>>>>>>>>>>>>>----------   58.64 %
+JavaScript                 58 hrs 35 mins  >>-----------------------   07.01 %
+XML                        43 hrs 16 mins  >------------------------   05.18 %
+CSV                        29 hrs 45 mins  >------------------------   03.56 %
+SQL                        21 hrs 43 mins  >------------------------   02.60 %
+Bash                       2 hrs 12 mins   -------------------------   00.26 %
 Nginx configuration file   53 mins         -------------------------   00.11 %
 ```
 
