@@ -35,12 +35,12 @@ My passion is Software Engineering, Data Science, Machine Learning, and Financia
 ```python
 From: 22 November 2024 - To: 23 September 2025
 
-Total Time: 1,045 hrs 9 mins
+Total Time: 1,045 hrs 27 mins
 
-Python                     736 hrs 26 mins >>>>>>>>>>>>>------------   52.17 %
-JavaScript                 64 hrs 49 mins  >------------------------   04.59 %
+Python                     736 hrs 35 mins >>>>>>>>>>>>>------------   52.17 %
+JavaScript                 64 hrs 54 mins  >------------------------   04.60 %
 XML                        57 hrs 3 mins   >------------------------   04.04 %
-SQL                        39 hrs 11 mins  >------------------------   02.78 %
+SQL                        39 hrs 14 mins  >------------------------   02.78 %
 CSV                        36 hrs 3 mins   >------------------------   02.55 %
 Bash                       14 hrs 28 mins  -------------------------   01.03 %
 YAML                       9 hrs 13 mins   -------------------------   00.65 %
