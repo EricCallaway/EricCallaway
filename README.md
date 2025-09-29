@@ -33,7 +33,7 @@ My passion is Software Engineering, Data Science, Machine Learning, and Financia
 <!--START_SECTION:waka-->
 
 ```python
-From: 22 November 2024 - To: 28 September 2025
+From: 22 November 2024 - To: 29 September 2025
 
 Total Time: 1,073 hrs 44 mins
 
