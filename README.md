@@ -33,16 +33,16 @@ My passion is Software Engineering, Data Engineering, Data Science, Machine Lear
 <!--START_SECTION:waka-->
 
 ```python
-From: 22 November 2024 - To: 22 May 2026
+From: 22 November 2024 - To: 23 May 2026
 
-Total Time: 2,022 hrs 4 mins
+Total Time: 2,028 hrs 8 mins
 
-Python                     1,154 hrs 19 mins     >>>>>>>>>----------------   37.57 %
-AWS Console                143 hrs 47 mins       >------------------------   04.68 %
-TypeScript                 110 hrs 15 mins       >------------------------   03.59 %
+Python                     1,158 hrs 32 mins     >>>>>>>>>----------------   37.59 %
+AWS Console                144 hrs 4 mins        >------------------------   04.68 %
+TypeScript                 110 hrs 15 mins       >------------------------   03.58 %
 JavaScript                 76 hrs 17 mins        >------------------------   02.48 %
 SQL                        50 hrs 26 mins        -------------------------   01.64 %
-Bash                       23 hrs 47 mins        -------------------------   00.77 %
+Bash                       24 hrs 19 mins        -------------------------   00.79 %
 ```
 
 <!--END_SECTION:waka-->
