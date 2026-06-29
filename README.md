@@ -33,7 +33,7 @@ My passion is Software Engineering, Data Engineering, Data Science, Machine Lear
 <!--START_SECTION:waka-->
 
 ```python
-From: 22 November 2024 - To: 28 June 2026
+From: 22 November 2024 - To: 29 June 2026
 
 Total Time: 2,145 hrs 27 mins
 
